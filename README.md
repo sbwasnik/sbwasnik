@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subodh Wasnik</h1>
-<h3 align="center">Fina year UG from IIT Madras passionate about learning everything new challenging</h3>
+<h3 align="center">Final year UG from IIT Madras passionate about learning everything new challenging</h3>
 
 - 📫 How to reach me **subodh123wasnik@gmail.com**
 
