@@ -1,20 +1,12 @@
-### <div align="center">I'm Subodh, a Final Year student at IIT Madras pursuing Naval Architecture and Ocean Engineering.</div>  
+### <div align="center">I am a graduate and post-graduate of IIT Madras in Naval Architecture and Ocean Engineering having a keen interest in data science and software development.</div>  
   
 
-- Proficient in Java, Python, SQL, and C/CPP.  
-  
-
-- Strongly interested in DSA and an experience in full stack Development using HTML, CSS, Bootstrap, MySQL, JS, and Java.  
-  
-
-- My other interest includes Data Science, Machine learning, and Game Development.  
-  
-
-- Currently learning AI-ML, and DL, and exploring frontend web development.  
-  
-
+- Seeking full-time opportunity in Data Science, Machine Learning, and Artificial Intelligence
+- Proficient in Python, Java, and C++
+- Hands-on experience in web development (HTML, CSS)
+- Quick learner of new software
+- Motivated and diligent problem solver  
 - My Portfolio [here](https://sbwasnik.github.io/portfolio/)  
-  
 
 <br/>  
 
@@ -91,9 +83,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sbwasnik&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 
