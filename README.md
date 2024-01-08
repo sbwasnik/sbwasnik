@@ -1,10 +1,9 @@
 ### <div align="center">I am a graduate and post-graduate of IIT Madras in Naval Architecture and Ocean Engineering having a keen interest in data science and software development.</div>  
   
 
-- Seeking full-time opportunity in Data Science, Machine Learning, and Artificial Intelligence
-- Proficient in Python, Java, and C++
+- Seeking full-time opportunity in Data Science and Analytical field
+- Proficient in Python and Java; as well as good knowledge of C++
 - Hands-on experience in web development (HTML, CSS)
-- Quick learner of new software
 - Motivated and diligent problem solver  
 - My Portfolio [here](https://sbwasnik.github.io/portfolio/)  
 
